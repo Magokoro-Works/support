@@ -32,4 +32,4 @@ A. 住所入力の「現在地を取得」を押したときだけ、その場�
 
 ## 不具合報告・ご要望
 
-[Issues](../../../../issues) からお気軽にどうぞ(GitHubアカウントが必要です)。
+[Issues](https://github.com/Magokoro-Works/support/issues) からお気軽にどうぞ(GitHubアカウントが必要です)。
